@@ -19,7 +19,6 @@ body {
 
 /* HLAVICKA */
 
-
 .zahlavi {
     background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0,0,0, 0.1)), url(images/island-hlavicka.jpg);
     height: 450px;
@@ -108,6 +107,7 @@ li {
     display: block;
     margin-top: -50px;
     z-index: 10000;  
+    background-color:white;
 }
 
 .photo img, .proc img, .videt img {
